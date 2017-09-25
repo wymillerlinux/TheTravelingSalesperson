@@ -1,0 +1,8 @@
+/home/wyatt/Source/TheTravelingSalesperson/CodingActivity_TheTravelingSalesperson.Starter/obj/Debug/.NETFramework,Version=v4.6.AssemblyAttribute.cs
+/home/wyatt/Source/TheTravelingSalesperson/CodingActivity_TheTravelingSalesperson.Starter/obj/Debug/CodingActivity_TheTravelingSalesperson.Solution.exe
+/home/wyatt/Source/TheTravelingSalesperson/CodingActivity_TheTravelingSalesperson.Starter/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/home/wyatt/Source/TheTravelingSalesperson/CodingActivity_TheTravelingSalesperson.Starter/bin/Debug/CodingActivity_TheTravelingSalesperson.Solution.exe.config
+/home/wyatt/Source/TheTravelingSalesperson/CodingActivity_TheTravelingSalesperson.Starter/bin/Debug/CodingActivity_TheTravelingSalesperson.Solution.exe.mdb
+/home/wyatt/Source/TheTravelingSalesperson/CodingActivity_TheTravelingSalesperson.Starter/bin/Debug/CodingActivity_TheTravelingSalesperson.Solution.exe
+/home/wyatt/Source/TheTravelingSalesperson/CodingActivity_TheTravelingSalesperson.Starter/obj/Debug/CodingActivity_TheTravelingSalesperson.Solution.exe.mdb
+/home/wyatt/Source/TheTravelingSalesperson/CodingActivity_TheTravelingSalesperson.Starter/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
